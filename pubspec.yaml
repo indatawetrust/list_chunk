@@ -1,0 +1,8 @@
+name: list_chunk
+version: 0.0.1
+authors:
+    - cond <iamaroott@gmail.com>
+description: List chunk library
+homepage: https://github.com/indatawetrust/list_chunk.dart
+dev_dependencies:
+    test: '0.12.23+1'
